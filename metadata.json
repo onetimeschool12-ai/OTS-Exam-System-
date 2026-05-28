@@ -1,0 +1,6 @@
+{
+  "name": "OTS - EXAM BATCH",
+  "description": "Official platform for OTS EXAM SYSTEM, featuring online exams, analytics, and student leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
